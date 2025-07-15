@@ -1,0 +1,23 @@
+<estados>
+<MENU>
+    <texturas>
+        <textura archivo="assets/jugar.png" id="botonJugar" />
+        <textura archivo="assets/salir.png" id="botonSalir" />
+    </texturas>
+
+    <objetos>
+        <objeto tipo="BotonMenu" x="100" y="100" ancho="400" 
+        alto="100" idTextura="botonJugar" numFrames="0"
+        idCallback="1" />
+        <objeto tipo="BotonMenu" x="100" y="300" ancho="400" 
+        alto="100" idTextura="botonSalir" numFrames="0"
+        idCallback="2" />
+    </objetos>
+</MENU>
+
+<JUGAR>
+</JUGAR>
+
+<GAMEOVER>
+</GAMEOVER>
+</estados>
