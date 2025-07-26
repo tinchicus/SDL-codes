@@ -1,0 +1,33 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "mapa01.tmx": {
+            "scale": 0.9203125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 314.5670628183362,
+                "y": 240.13582342954157
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/tinchicus/3D Objects/mapas",
+    "map.height": 15,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "3",
+    "map.width": 20,
+    "openFiles": [
+    ],
+    "project": "Juego.tiled-project",
+    "recentFiles": [
+        "mapa01.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 2,
+    "tileset.spacing": 2
+}
