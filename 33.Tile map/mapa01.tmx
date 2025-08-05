@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="32" tileheight="32" infinite="0" backgroundcolor="#55aaff" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="Imagenes" tilewidth="32" tileheight="32" spacing="2" margin="2" tilecount="198" columns="18">
+  <image source="blocks1.png" width="614" height="376"/>
+ </tileset>
+ <tileset firstgid="199" name="Imagenes2" tilewidth="32" tileheight="32" spacing="2" margin="2" tilecount="198" columns="18">
+  <image source="blocks2.png" width="614" height="376"/>
+ </tileset>
+ <layer id="1" name="Capa de patrones 1" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBhcIBmIU4A4FU08EYiT6OwWSuzE5Y9RgB3cB+IHQPyQSuo+AvEnIP5MJXUgwMJIhCIi1IkzQrAYI4KND+NSBwISQCwJxFJALA3EMjj4kkSokwViPiBmpRLmpYF5ABnBE3w=
+  </data>
+ </layer>
+</map>
