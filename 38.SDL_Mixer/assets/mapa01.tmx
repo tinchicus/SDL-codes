@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="60" height="15" tilewidth="32" tileheight="32" infinite="0" backgroundcolor="#55aaff" nextlayerid="4" nextobjectid="5">
+ <properties>
+  <property name="helicoptero" value="assets/helicoptero.png"/>
+ </properties>
+ <tileset firstgid="1" name="Imagenes" tilewidth="32" tileheight="32" spacing="2" margin="2" tilecount="198" columns="18">
+  <image source="assets/blocks1.png" width="614" height="376"/>
+ </tileset>
+ <tileset firstgid="199" name="Imagenes2" tilewidth="32" tileheight="32" spacing="2" margin="2" tilecount="198" columns="18">
+  <image source="assets/blocks2.png" width="614" height="376"/>
+ </tileset>
+ <layer id="1" name="Capa de patrones 1" width="60" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztk0sOQDAURTVhyBD12Zq/dWMJ2IArIkakLarUSU7SJjevrz/D+OGhhBWsT9bJYcGRT2AKM8G6vOvJ4qrzFOGKO3iy/yNk98X6PvdQ9X0+gey7u+vsVf0bKtLAFnaa5Ho4wFGT3IxJGEIfyHlk0SXb+Mi35mZ8SGEAQxjtzClDbh2rWi+GDrQ00dZwvxPtTj3l
+  </data>
+ </layer>
+ <objectgroup id="2" name="Capa de Objetos 1">
+  <object id="3" name="helicoptero" type="Jugador" x="109.436" y="174.696" width="1" height="1">
+   <properties>
+    <property name="altoTextura" type="int" value="55"/>
+    <property name="anchoTextura" type="int" value="128"/>
+    <property name="idTextura" value="helicoptero"/>
+    <property name="numFrames" type="int" value="4"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
